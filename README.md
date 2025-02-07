@@ -8,7 +8,7 @@
 
 ## Hello,我是天天困🥱
 
-🔭 个人履历：国内高校在校大二主Java后端开发副Python的大学生
+🔭 个人履历：国内高校在校大二主Java后端开发副Python的大学生,华为云享专家博主
 
 🔥 核心业务； 主流的Spring全家桶,Redis，Mysql，常用中间组件,Linux,PyTorch,YOLO,OpenCV
 
