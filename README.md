@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20天天困🥱!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=&duration=5004&pause=1000&color=DA22FF&background=0B0A0300&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E7%9C%9F&random=%E5%81%87&width=870&height=30&lines=Hello!++%E5%A4%A7%E5%AE%B6%E5%A5%BD%2C++%E6%88%91%E6%98%AF%E5%A4%A9%E5%A4%A9%E5%9B%B0%F0%9F%A5%B1%2C+++%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0++%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81++Welcome+to+my+website%EF%BC%81)](https://git.io/typing-svg)
 
 ## Hello,我是天天困🥱
 
