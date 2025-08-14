@@ -8,9 +8,9 @@
 
 ## Hello,我是天天困🥱
 
-🔭 个人履历：国内高校在校大三主Java后端开发副Python的大学生,华为云享专家博主
+🔭 个人履历：国内高校在校大三主Java后端开发的大学生,华为云享专家博主
 
-🔥 核心业务； 主流的Spring全家桶,Redis，Mysql，常用中间组件,Linux,PyTorch,YOLO,OpenCV
+🔥 核心业务； 主流的Spring全家桶,Redis，Mysql，常用微服务中间组件,Linux,略懂PyTorch,YOLO,OpenCV等知识
 
 👯 视频账号：B站-天天困555 || 抖音、小红书、视频号 -> 天天困
 
@@ -23,3 +23,4 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+
