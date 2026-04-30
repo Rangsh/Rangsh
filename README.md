@@ -6,9 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-## Hello,我是天天困🥱
+## Hello,我是程序员锅巴
 
-🔭 个人履历：国内高校在校大三主Java后端开发的大学生,华为云享专家博主
+🔭 个人履历：国内高校在校大三主Java后端开发的大学生,华为云享专家博主、腾讯云创作之星
 
 🔥 核心业务； 主流的Spring全家桶,Redis，Mysql，常用微服务中间组件,Linux,略懂PyTorch,YOLO,OpenCV等知识
 
