@@ -25,6 +25,7 @@ We're making the world a better place. Through the harmony of code and the passi
 </tr></td>
 
 <tr><td>
+  
 ### 🏢 Work Experience
 </table>
 
