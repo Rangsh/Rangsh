@@ -24,10 +24,13 @@
 
 👋 嗨，你好，我是程序员锅巴。热爱编程、音乐与弹琴。
 
-🎓 计算机科学与技术专业在读学生 | 腾讯云开发者社区创作之星 | 华为云云享专家
-💻 专注 Java 后端开发 (Spring全家桶, Redis, MySQL, 常用中间组件)
-🐍 副攻 Python爬虫、Agent开发与 Vibe coding (AI辅助编程)
+🎓 **计算机科学与技术专业在读学生**  
+🏅 腾讯云开发者社区创作之星 | 华为云云享专家
 
+💻 **主攻：** Java 后端开发  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring全家桶, Redis, MySQL, 常用中间组件
+
+🐍 **副攻：** Python 爬虫, Agent 开发与 Vibe coding (AI辅助编程)
 
 </tr></td>
 
