@@ -22,10 +22,9 @@
 
 - 🎓 **计算机科学与技术专业** 在读学生
 - 🏅 **腾讯云开发者社区** 创作之星 | **华为云** 云享专家
-- 🤝 **开源贡献**：核心 Committer @ [**KouriChat**](https://github.com/KouriChat/KouriChat) *(致力于提供优秀的开源对话/AI解决方案)*
+- 🤝 **开源贡献**：核心 Committer @ [**KouriChat**](https://github.com/KouriChat/KouriChat) 
 - 🌱 **目前正在探索**：Agent 开发、Vibe coding (AI辅助编程)
 - 🎯 **主攻方向**：Java 核心研发、架构设计、自动化爬虫
-- 💬 **想和我聊聊？** 欢迎提交 Issue 或加我交流技术！
 ---
 ### 🛠️ 技术栈 (Tech Stack)
 **💻 主攻：Java 后端开发**
