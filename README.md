@@ -21,13 +21,13 @@
 ### 👨‍💻 About Me
 
 * **个人状态** - 计算机科学与技术专业在读学生
-* **主攻方向** - 专注于 `Java` 后端开发
+* **主攻方向** - 专注于 `Java` 后端开发，并兼具 `Python` 爬虫与数据抓取能力
 * **探索学习** - 目前正在积极研究 `Agent` 开发与 `Vibe coding`（AI 辅助编程）
 * **社区荣誉** - 腾讯云开发者社区「创作之星」 · 华为云「云享专家」
 ---
 
 ### Open Source
-* [KouriChat](https://github.com/KouriChat/KouriChat) 一款基于 `LLM` 构建的更逼真的情感陪伴 `Agent`。*(Committer)*
+* [KouriChat](https://github.com/KouriChat/KouriChat) 一款基于 `LLM` 构建的更逼真的情感陪伴 `Agent`*(Committer)*
  
 
 
