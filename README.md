@@ -30,7 +30,7 @@ We're making the world a better place. Through the harmony of code and the passi
 
 * [松下电器（中国）有限公司](https://panasonic.cn/) 📌 2025-06-01 —— 2025-09-01
   * 工作岗位：后端开发实习生
-  * 工作内容：参与中山大学校园业务开发
+  * 工作内容：参与制造业数字化有关的开发工作，以及一些杂活
     
 </table>
 
