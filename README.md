@@ -14,11 +14,13 @@
   
 ### 🤺 About Me
 
-🔭 个人履历：计算机科学与技术专业在读学生，腾讯云开发者社区创作之星，华为云云享专家，专注后端开发与开发者内容创作
+嗨，你好，我是程序员锅巴。热爱编程、音乐、弹琴。
 
-🔥 核心业务； 主流的Spring全家桶,Redis，Mysql，常用微服务中间组件,Linux,略懂PyTorch,YOLO,OpenCV等知识
+计算机科学与技术专业在读学生，腾讯云开发者社区创作之星，华为云云享专家。我热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的后端开发与内容创作者。
 
-👯 视频账号：B站-天天困555 || 抖音、小红书、视频号 -> 天天困
+我们正在让这个世界变得更加美好，通过优雅的代码和充满韵律的设计。
+
+We're making the world a better place. Through the harmony of code and the passion of our creations.
 
 </tr></td>
 </table>
