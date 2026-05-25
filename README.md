@@ -23,6 +23,9 @@
 We're making the world a better place. Through the harmony of code and the passion of our creations.
 
 </tr></td>
+
+<tr><td>
+### 🏢 Work Experience
 </table>
 
 <div align="center">
