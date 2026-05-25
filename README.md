@@ -20,27 +20,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **计算机科学与技术专业** 在读学生
-- 🏅 **腾讯云开发者社区** 创作之星 | **华为云** 云享专家
-- 🤝 **开源贡献**：核心 Committer @ [**KouriChat**](https://github.com/KouriChat/KouriChat) 
-- 🌱 **目前正在探索**：Agent 开发、Vibe coding (AI辅助编程)
-- 🎯 **主攻方向**：Java 核心研发、架构设计、自动化爬虫
+* **个人状态** - 计算机科学与技术专业在读学生。
+* **主攻方向** - 专注于 `Java` 后端开发。
+* **探索学习** - 目前正在积极研究 `Agent` 开发与 `Vibe coding`（AI 辅助编程）。
+* **社区荣誉** - 腾讯云开发者社区「创作之星」 · 华为云「云享专家」。
 ---
-### 🛠️ 技术栈 (Tech Stack)
-**💻 主业：Java 后端开发**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-🐍 副业：Python 与 AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Scraping-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent-00599C?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+
+### Open Source
+* [KouriChat](https://github.com/KouriChat/KouriChat) - 一款基于 `LLM` 构建的更逼真的情感陪伴 `Agent`。*(Committer)*
  
 
 
