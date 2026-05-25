@@ -28,7 +28,8 @@ We're making the world a better place. Through the harmony of code and the passi
   
 ### 🏢 Work Experience
 
-* [松下电器（中国）有限公司](https://panasonic.cn/) &nbsp;&nbsp;📌 2025-06-01 —— 2025-09-01
+* [松下电器（中国）有限公司](https://panasonic.cn/) &nbsp;&nbsp;&nbsp;&nbsp;📌 2025-06-01 —— 2025-09-01
+
   * 工作岗位：后端开发实习生
   * 工作内容：参与组内工业相关的后端项目开发，以及一些杂活
     
