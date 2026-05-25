@@ -16,17 +16,17 @@
 ##  🙋 Hello,我是程序员锅巴
 <table>
 
-<tr><td>
-  
+<tr><td align="left">
+
 ### 🤺 About Me
 
-&nbsp;&nbsp;嗨，你好，我是程序员锅巴。热爱编程、音乐、弹琴。
+嗨，你好，我是程序员锅巴。热爱编程、音乐、弹琴。
 
-&nbsp;&nbsp;计算机科学与技术专业在读学生，腾讯云开发者社区创作之星，华为云云享专家。我热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的后端开发与内容创作者。
+计算机科学与技术专业在读学生，腾讯云开发者社区创作之星，华为云云享专家。我热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的后端开发与内容创作者。
 
-&nbsp;&nbsp;我们正在让这个世界变得更加美好，通过优雅的代码和充满韵律的设计。
+我们正在让这个世界变得更加美好，通过优雅的代码和充满韵律的设计。
 
-&nbsp;&nbsp;We're making the world a better place. Through the harmony of code and the passion of our creations.
+We're making the world a better place. Through the harmony of code and the passion of our creations.
 
 
 </tr></td>
