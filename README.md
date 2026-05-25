@@ -8,6 +8,10 @@
 
 
 ##  🙋 Hello,我是程序员锅巴
+<table>
+
+<tr><td>
+
 ### 🤺 About Me
 
 🔭 个人履历：计算机科学与技术专业在读学生，腾讯云开发者社区创作之星，华为云云享专家，专注后端开发与开发者内容创作
@@ -15,6 +19,9 @@
 🔥 核心业务； 主流的Spring全家桶,Redis，Mysql，常用微服务中间组件,Linux,略懂PyTorch,YOLO,OpenCV等知识
 
 👯 视频账号：B站-天天困555 || 抖音、小红书、视频号 -> 天天困
+
+</tr></td>
+</table>
 
 <div align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,azure&theme=light"/>
