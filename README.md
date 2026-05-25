@@ -22,26 +22,17 @@
 
 ### 🤺 About Me
 
-  嗨，你好，我是程序员锅巴。热爱编程、音乐、弹琴。
-  
-  计算机科学与技术专业在读学生，腾讯云开发者社区创作之星，华为云云享专家。我热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的后端开发与内容创作者。
-  
-  我们正在让这个世界变得更加美好，通过优雅的代码和充满韵律的设计。
-  
-  We're making the world a better place. Through the harmony of code and the passion of our creations.
+👋 嗨，你好，我是程序员锅巴。热爱编程、音乐与弹琴。
+
+🎓 计算机科学与技术专业在读学生 | 腾讯云开发者社区创作之星 | 华为云云享专家
+💻 专注 Java 后端开发 (Spring全家桶, Redis, MySQL, 常用中间组件)
+🐍 副攻 Python爬虫、Agent开发与 Vibe coding (AI辅助编程)
 
 
 </tr></td>
 
-<tr><td>
   
-### 🏢 Work Experience
 
-* [松下电器（中国）有限公司](https://panasonic.cn/) &nbsp;&nbsp;&nbsp;&nbsp;📌 2025-06-01 —— 2025-09-01
-
-  * 工作岗位：后端开发实习生
-  * 工作内容：参与组内工业相关的后端项目开发，以及一些杂活
-    
 </table>
 
 <div align="center">
