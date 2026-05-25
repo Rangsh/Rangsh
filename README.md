@@ -27,7 +27,7 @@
 - 🎯 **主攻方向**：Java 核心研发、架构设计、自动化爬虫
 ---
 ### 🛠️ 技术栈 (Tech Stack)
-**💻 主攻：Java 后端开发**
+**💻 主业：Java 后端开发**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-**🐍 副攻：Python 与 AI**
+🐍 副业：Python 与 AI
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_Scraping-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white" />
