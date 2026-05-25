@@ -18,20 +18,30 @@
 ##  🙋 Hello,我是程序员锅巴
 
 
-### 🤺 About Me
+### 👨‍💻 About Me
 
-🎓 **计算机科学与技术专业在读学生**
-
-🏅 **腾讯云开发者社区创作之星** | **华为云云享专家**
-
+- 🎓 **计算机科学与技术专业** 在读学生
+- 🏅 **腾讯云开发者社区** 创作之星 | **华为云** 云享专家
+- 🤝 **开源贡献**：核心 Committer @ [**KouriChat**](https://github.com/KouriChat/KouriChat) *(致力于提供优秀的开源对话/AI解决方案)*
+- 🌱 **目前正在探索**：Agent 开发、Vibe coding (AI辅助编程)
+- 🎯 **主攻方向**：Java 核心研发、架构设计、自动化爬虫
+- 💬 **想和我聊聊？** 欢迎提交 Issue 或加我交流技术！
 ---
-
-#### 🖥️ 技术栈
-
-- 💻 **主攻：Java 后端开发**
-  - Spring全家桶, Redis, MySQL, 常用中间组件
-- 🐍 **副攻：Python 爬虫**
-  - Agent开发, Vibe coding (AI辅助编程)
+### 🛠️ 技术栈 (Tech Stack)
+**💻 主攻：Java 后端开发**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+**🐍 副攻：Python 与 AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agent-00599C?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
  
 
 
