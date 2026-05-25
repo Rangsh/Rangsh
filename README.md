@@ -16,19 +16,24 @@
 
 
 ##  🙋 Hello,我是程序员锅巴
-<table>
 
-<tr><td align="left">
 
 ### 🤺 About Me
 
 🎓 **计算机科学与技术专业在读学生**
 
 🏅 **腾讯云开发者社区创作之星** | **华为云云享专家**
- 
-</tr></td>
 
-</table>
+---
+
+#### 🖥️ 技术栈
+
+- 💻 **主攻：Java 后端开发**
+  - Spring全家桶, Redis, MySQL, 常用中间组件
+- 🐍 **副攻：Python 爬虫**
+  - Agent开发, Vibe coding (AI辅助编程)
+ 
+
 
 <div align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,azure&theme=light"/>
