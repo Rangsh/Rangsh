@@ -15,7 +15,7 @@
 </picture>
 
 
-##  🙋 Hello,我是程序员锅巴
+##  
 
 
 ### 👨‍💻 About Me
