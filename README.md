@@ -28,7 +28,7 @@
 
 ### Open Source
 * [KouriChat](https://github.com/KouriChat/KouriChat) 一款基于 `LLM` 构建的更逼真的情感陪伴 `Agent`*(Committer)*
-* [ThriveX](https://github.com/LiuYuYang01/ThriveX-Server) 🎉 一个年轻、高颜值、全开源、永不收费的现代化博客管理系统，采用 `NextJS` + `Spring Boot` 前后端分离*(Committer)*
+* [ThriveX](https://github.com/LiuYuYang01/ThriveX-Server) 🎉 一个年轻、高颜值、全开源、永不收费的现代化博客管理系统，采用 `NextJS` + `Spring Boot`*(Committer)* 
  
 
 
